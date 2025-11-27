@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.872559mm"
+   height="21.899849mm"
+   viewBox="0 0 52.872559 21.899849"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-22.966101,-11.061824)">
+    <rect
+       style="opacity:0.75;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.400001;stroke-dasharray:none"
+       id="rect1"
+       width="31.501608"
+       height="21.499847"
+       x="23.166101"
+       y="11.261826"
+       ry="0.66408795" />
+    <path
+       id="rect2"
+       style="opacity:0.75;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.400001"
+       d="M 25.193686,12.043588 H 53.47346 c 0.249366,0 0.450119,0.274644 0.450119,0.615794 v 18.704734 c 0,0.341149 -0.200753,0.615793 -0.450119,0.615793 H 25.193686 c -0.249366,0 -1.283452,-1.414701 -1.283452,-1.75585 v -16.42462 c 0,-0.341149 1.034086,-1.755851 1.283452,-1.755851 z" />
+    <g
+       id="g292"
+       transform="translate(-19.231317,-9.3720506)">
+      <circle
+         style="fill:#ff6600;fill-opacity:0.5;stroke:none;stroke-width:0.4;stroke-dasharray:none"
+         id="circle284"
+         cx="53.198898"
+         cy="29.887712"
+         r="1.3" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle284"
+         transform="translate(7.2942828e-7,3.1499998)"
+         id="use286" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle284"
+         transform="translate(3.3000003)"
+         id="use287" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle284"
+         transform="translate(3.3000003,3.1499998)"
+         id="use288" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle284"
+         transform="translate(6.5999996)"
+         id="use289" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle284"
+         transform="translate(6.5999996,3.1499998)"
+         id="use290" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle284"
+         transform="translate(9.8999993)"
+         id="use291" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle284"
+         transform="translate(9.8999993,3.1499998)"
+         id="use292" />
+    </g>
+    <g
+       id="g284"
+       transform="translate(4.252717,-21.106077)"
+       style="opacity:0.75">
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
+         id="path2"
+         cx="23.114864"
+         cy="35.321739"
+         r="1.3" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(-4.4090467e-8,3.1499998)"
+         id="use238" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(-4.4090467e-8,6.2999997)"
+         id="use239" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(-4.4090467e-8,9.4499995)"
+         id="use240" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(-4.4090467e-8,12.599999)"
+         id="use241" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(-4.4090467e-8,15.749999)"
+         id="use242" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(3.2999998)"
+         id="use243" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(3.2999998,3.1499998)"
+         id="use244" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(3.2999998,6.2999997)"
+         id="use245" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(3.2999998,9.4499995)"
+         id="use246" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(3.2999998,12.599999)"
+         id="use247" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(3.2999998,15.749999)"
+         id="use248" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(6.5999997)"
+         id="use249" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(6.5999997,3.1499998)"
+         id="use250" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(6.5999997,6.2999997)"
+         id="use251" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(6.5999997,9.4499995)"
+         id="use252" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(6.5999997,12.599999)"
+         id="use253" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(6.5999997,15.749999)"
+         id="use254" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(9.8999995)"
+         id="use255" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(9.8999995,3.1499998)"
+         id="use256" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(9.8999995,6.2999997)"
+         id="use257" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(9.8999995,9.4499995)"
+         id="use258" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(9.8999995,12.599999)"
+         id="use259" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(9.8999995,15.749999)"
+         id="use260" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(13.199999)"
+         id="use261" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(13.199999,3.1499998)"
+         id="use262" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(13.199999,6.2999997)"
+         id="use263" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(13.199999,9.4499995)"
+         id="use264" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(13.199999,12.599999)"
+         id="use265" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(13.199999,15.749999)"
+         id="use266" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(16.499999)"
+         id="use267" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(16.499999,3.1499998)"
+         id="use268" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(16.499999,6.2999997)"
+         id="use269" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(16.499999,9.4499995)"
+         id="use270" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(16.499999,12.599999)"
+         id="use271" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(16.499999,15.749999)"
+         id="use272" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(19.799999)"
+         id="use273" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(19.799999,3.1499998)"
+         id="use274" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(19.799999,6.2999997)"
+         id="use275" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(19.799999,9.4499995)"
+         id="use276" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(19.799999,12.599999)"
+         id="use277" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(19.799999,15.749999)"
+         id="use278" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(23.099999)"
+         id="use279" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(23.099999,3.1499998)"
+         id="use280" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(23.099999,6.2999997)"
+         id="use281" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(23.099999,9.4499995)"
+         id="use282" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(23.099999,12.599999)"
+         id="use283" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2"
+         transform="translate(23.099999,15.749999)"
+         id="use284" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#ff6600;fill-opacity:0.5;stroke:none;stroke-width:0.4;stroke-dasharray:none"
+       x="63.757996"
+       y="23.035818"
+       id="text292"><tspan
+         id="tspan292"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="63.757996"
+         y="23.035818">300 μl Intesticult</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-dasharray:none"
+       x="63.147354"
+       y="25.394327"
+       id="text293"><tspan
+         id="tspan293"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="63.147354"
+         y="25.394327">(1.5 µl Y-27632)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#ff6600;fill-opacity:0.5;stroke:none;stroke-width:0.4;stroke-dasharray:none"
+       x="66.399521"
+       y="18.300282"
+       id="text294"><tspan
+         id="tspan294"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="66.399521"
+         y="18.300282">80 μl crypt suspension</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#ff6600;fill-opacity:0.5;stroke:none;stroke-width:0.4;stroke-dasharray:none"
+       x="62.901024"
+       y="20.662235"
+       id="text295"><tspan
+         id="tspan295"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="62.901024"
+         y="20.662235">120 μl Matrigel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:0.2, 0.2;stroke-dashoffset:0"
+       x="40.568012"
+       y="21.146976"
+       id="text296"><tspan
+         id="tspan296"
+         style="fill:#000000;stroke:none;stroke-width:0.2"
+         x="40.568012"
+         y="21.146976">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:0.2, 0.2;stroke-dashoffset:0"
+       x="43.868011"
+       y="21.146976"
+       id="text297"><tspan
+         id="tspan297"
+         style="fill:#000000;stroke:none;stroke-width:0.2"
+         x="43.868011"
+         y="21.146976">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:0.2, 0.2;stroke-dashoffset:0"
+       x="40.568012"
+       y="24.296976"
+       id="text298"><tspan
+         id="tspan298"
+         style="fill:#000000;stroke:none;stroke-width:0.2"
+         x="40.568012"
+         y="24.296976">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:0.2, 0.2;stroke-dashoffset:0"
+       x="43.868011"
+       y="24.296976"
+       id="text299"><tspan
+         id="tspan299"
+         style="fill:#000000;stroke:none;stroke-width:0.2"
+         x="43.868011"
+         y="24.296976">Y</tspan></text>
+  </g>
+</svg>
