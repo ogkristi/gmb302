@@ -10,3 +10,8 @@ version = "0.1.0"
 
 [dependencies]
 ipykernel = ">=7.1.0,<8"
+matplotlib = ">=3.10.8,<4"
+ipywidgets = ">=8.1.8,<9"
+
+[pypi-dependencies]
+opencv-python-headless = ">=4.11.0.86, <5"
